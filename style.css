@@ -1,0 +1,58 @@
+h1 {
+   text-align: center;
+   color: rgb(231, 202, 202);
+}
+
+
+
+
+p{
+   color: rgb(229, 220, 220);
+   text-align: center;
+   font-size: 150%;
+
+}
+h2 {
+   color: rgb(28, 20, 20);
+   text-align: center;
+   background-color: rgb(4, 234, 255);
+  border-radius: 500px;
+
+
+}
+marquee{
+   color: red;
+   font-size: 30px;
+}
+.container{
+   width: 1000px;
+   box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+   background: rgb(128, 103, 103);
+   padding: 500px 100px;
+   margin: 10%  auto 0;
+   text-align:center;
+}
+body{
+ background-image: url(photo/universe.jpg);
+ background-size: 100%;
+}
+
+.link{
+   font-size: 20px;
+   color: white;
+   text-align: center;
+}
+#box{
+   float: left;
+   margin: 10px;
+   width: 100px;
+   /* border-radius: 5px;
+   /* background-color: rgb(255, 0, 0); */
+    padding: 1em;  
+  
+}
+.special{
+   /* background-color:blueviolet; */
+   padding: 15px;
+   color:rgb(2, 2, 2) ;
+}
